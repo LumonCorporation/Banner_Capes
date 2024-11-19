@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Custom Banners </h1>
+<h1> Banner Capes </h1>
 Добавляет узоры для баннеров на ткацком столе, которые также можно использовать на щитах<br><br>
 
 ![Performance](https://github.com/LumonCorporation/Banner_Capes/blob/main/files/crafting.png)<br>
